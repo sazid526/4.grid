@@ -1,0 +1,1 @@
+  grid-template-columns: repeat(3,minmax(90px ,1fr));
